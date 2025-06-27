@@ -1,0 +1,5 @@
+importlib-metadata>=4.4
+fastapi
+uvicorn
+snscrape
+feedparser
